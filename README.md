@@ -1,4 +1,3 @@
-# Fabric_DP700_lab03
 # Delta Lake Lab with Microsoft Fabric
 
 This project is part of a hands-on lab designed to explore working with Delta Tables using Microsoft Fabric, SQL, and PySpark. The lab focuses on creating, managing, and querying Delta Lake tables in both batch and streaming scenarios.
